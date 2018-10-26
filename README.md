@@ -108,7 +108,7 @@ var net = new brain.NeuralNetwork({
 ```
 
 #### hiddenLayers
-Specify the number of hidden layers in the network and the size of each layer. For example, if you want two hidden layers - the first with 3 nodes and the second with 4 nodes, you'd give:
+Specify the number of hidden layers in the network and the size of each layer. For example, if you want two hidden layers, the first with 3 nodes and the second with 4 nodes, you'd give:
 
 ```
 hiddenLayers: [3, 4]
